@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicMudeApi", "MusicMudeApi\MusicMudeApi.csproj", "{FD8073BA-8531-4DDE-A5B7-C902335D5CA8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicMude.Tests", "MusicMude.Tests\MusicMude.Tests.csproj", "{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{FD8073BA-8531-4DDE-A5B7-C902335D5CA8}.Release|x64.Build.0 = Release|Any CPU
 		{FD8073BA-8531-4DDE-A5B7-C902335D5CA8}.Release|x86.ActiveCfg = Release|Any CPU
 		{FD8073BA-8531-4DDE-A5B7-C902335D5CA8}.Release|x86.Build.0 = Release|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Debug|x64.Build.0 = Debug|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Debug|x86.Build.0 = Debug|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Release|x64.ActiveCfg = Release|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Release|x64.Build.0 = Release|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Release|x86.ActiveCfg = Release|Any CPU
+		{4236C24D-3BFB-4A1F-88B6-AF750A5CE9DB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
